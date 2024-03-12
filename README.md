@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./banner-rmc.svg"  width="100%" height="250px">
+    <img src="./banner-rmc.svg"  width="100%">
 </p>
 
 <br>
