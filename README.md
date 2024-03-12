@@ -1,6 +1,9 @@
 <p align="center">
     <img src="./banner-rmc.svg"  width="100%" height="250px">
 </p>
+
+<br>
+<br>
 <!-- <img align="right" alt="GIF" src="./keyboard-typing.gif" width="350" height="200" /> -->
 <img align="right" alt="GIF" src="./capoo-capoo-type.gif" width="350" height="200" />
 
