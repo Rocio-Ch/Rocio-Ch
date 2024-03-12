@@ -24,7 +24,9 @@
 <br>
 
 <p align="center">
-    <img src="./portfolio-previews.png" width="100%">
+    <a href="https://rm-chaparro-dev.vercel.app/" target="_blank" rel="noreferrer">
+        <img src="./portfolio-previews.png" width="100%">
+    </a>
 </p>
 
 <br>
