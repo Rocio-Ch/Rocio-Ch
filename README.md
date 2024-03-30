@@ -41,7 +41,8 @@
 
 <h5 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,vue,tailwind,materialui,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,js,vercel)](https://skillicons.dev)
+<!-- https://skillicons.dev/icons?i=vite,react,vue,tailwind,materialui,js -->
 </h5>
 
 <h5 align="center">
